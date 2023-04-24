@@ -1,2 +1,2 @@
-# G-osowanie_2025
+# Glosowanie_2025
 sql + chart.js
